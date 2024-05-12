@@ -25,7 +25,7 @@
 
 ## My Programming & Hachathon Performance
 
-| Competition Name | Year | Team Name | Rank | 
+| Competition Name | Year | Rank | Team Name | 
 |------------------|------|------|-----------|
 | 🌟 National Girls’ Programming Contest 2022   | 2023 | Champion  | BUET Pirates |
 | 🌟 NASA SPACE APPS CHALLENGE 2021   | 2022 | 2nd Runner Up, Dhaka Division  | Luminal Caliber |
