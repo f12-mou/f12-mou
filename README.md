@@ -37,6 +37,11 @@
 | BUET Inter University Hackathon 2023 | 2023 | Selected for main round |  BUET HackForce |
 
 
+## 🏆 Achievements
+
+I was honored to be featured in Prothom Alo, a leading newspaper, for my performance in programming competitions.
+Read the full article here: [Performance of BUET_Pirates in NGPC 2022](https://www.prothomalo.com/lifestyle/zldk32um72)
+
 
   
 
