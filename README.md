@@ -20,6 +20,8 @@
    <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" width="80" height="80">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" height="80">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">
+     <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" width="80" height="80">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT495SlfdbhfosQjmsInc89C97TtcwvKyqK33Wl6Xywxw&s" width="80" height="80">
 
 ## My Programming & Hachathon Performance
 
