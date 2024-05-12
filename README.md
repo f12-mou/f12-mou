@@ -34,6 +34,7 @@
 | BUET INTER UNIVERSITY PROGRAMMING CONTEST 2023 | 2023 | 15 | BUET Trumpet|
 | BUET INTER UNIVERSITY PROGRAMMING CONTEST 2022 | 2022 | 80 | BUET Qwerty|
 | National Collegiate Programming Contest 2023 | 2024 | 100 |  BUET Team 7|
+| BUET Inter University Hackathon 2023 | 2023 | Selected for main round |  BUET HackForce |
 
 
 
