@@ -49,3 +49,11 @@
 Feel free to explore my repositories and reach out if you want to discuss anything you find interesting, whether it's related or unrelated to my work.
 
 
+
+![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=f12-mou&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f12-mou&layout=compact&theme=dracula)
+
+
+
+
