@@ -20,6 +20,21 @@
    <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" width="80" height="80">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" height="80">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">
+
+## My Programming & Hachathon Performance
+
+| Competition Name | Year | Team Name | Rank | 
+|------------------|------|------|-----------|
+| 🌟 National Girls’ Programming Contest 2022   | 2023 | Champion  | BUET Pirates |
+| 🌟 NASA SPACE APPS CHALLENGE 2021   | 2022 | 2nd Runner Up, Dhaka Division  | Luminal Caliber |
+| 🌟 ICPC Asia Dhaka Regional Contest 2023 | 2023 | Selected in Preliminary Contest | BUET Code Chronicles|
+| Ada Lovelace National Girls’ Programming Contest 2022  | 2022 | 14  | BUET error 404 |
+| BUET INTER UNIVERSITY PROGRAMMING CONTEST 2023 | 2023 | 15 | BUET Trumpet|
+| BUET INTER UNIVERSITY PROGRAMMING CONTEST 2022 | 2022 | 80 | BUET Qwerty|
+| National Collegiate Programming Contest 2023 | 2024 | 100 |  BUET Team 7|
+
+
+
   
 
 
