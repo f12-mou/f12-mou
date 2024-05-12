@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello Everyone! 👋 I am Moushe, though you will see my name listed as Faria Mou everywhere.
 
-<!--
-**f12-mou/f12-mou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm currently a Level-4 Term-I student in Computer Science and Engineering(CSE) at BUET.
+- 💡  I'm passionate about programming and have a keen interest in developing software.
+- 📚 My thesis is focused on Bioinformatics and it is indeed interesting. 
+- 🌱 I love to learn new things.
+- <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a504c732-2487-47cd-9380-d08f32a02454/dbqd0wh-0deffa14-4a5f-4640-9fe7-9328a1289c51.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1MDRjNzMyLTI0ODctNDdjZC05MzgwLWQwOGYzMmEwMjQ1NFwvZGJxZDB3aC0wZGVmZmExNC00YTVmLTQ2NDAtOWZlNy05MzI4YTEyODljNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PqXHW-XCbKzeaP2WENm5VRpbWDwdQjPO-RA3eIkOjzk" width="40" height="40"> I am a Tom & Jerry Lover. 
 
-Here are some ideas to get you started:
+##  Tech Toolbox
+  -<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" width="80" height="80">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" width="80" height="80">
+  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" width="80" height="80">
+  <img src="https://cdn1.iconfinder.com/data/icons/buno-programming-files/32/c_file_programming_format_document-128.png" width="80" height="80">
+  <img src="https://cdn3.iconfinder.com/data/icons/iconpark-vol-9/48/handle-c-128.png" width="80" height="80">
+  <img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" width="80" height="80">
+  <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/158632074/original/4b0770b0ea6343fe7fa24999a80d9e7f9041c588/develop-your-website-or-web-application-with-svelte.png" width="80" height="80">
+  <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" width="80" height="80">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="80" height="80">
+   <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" width="80" height="80">
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" height="80">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with Me
+
+- My Github Profile [here](https://github.com/f12-mou)
+- You can reach me via [mail](mailto:faria12mou@gmail.com)
+
+Feel free to explore my repositories and reach out if you want to discuss anything you find interesting, whether it's related or unrelated to my work.
+
+
