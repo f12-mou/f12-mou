@@ -11,7 +11,7 @@
   -<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-128.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png" width="80" height="80">&nbsp;&nbsp;
-  <img src="https://cdn1.iconfinder.com/data/icons/buno-programming-files/32/c_file_programming_format_document-128.png" width="80" height="80">&nbsp;&nbsp;
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/278922714/original/4b2afbe452a924ebe86166e7a535f81ce3811fd5/pcb-schematics-design-using-proteus-software.jpeg" width="80" height="80">&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/iconpark-vol-9/48/handle-c-128.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://w7.pngwing.com/pngs/657/27/png-transparent-postgresql-original-wordmark-logo-icon-thumbnail.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/158632074/original/4b0770b0ea6343fe7fa24999a80d9e7f9041c588/develop-your-website-or-web-application-with-svelte.png" width="80" height="80">&nbsp;&nbsp;
@@ -22,7 +22,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">&nbsp;&nbsp;&nbsp;
      <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" width="80" height="80">&nbsp;&nbsp;
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT495SlfdbhfosQjmsInc89C97TtcwvKyqK33Wl6Xywxw&s" width="80" height="80">&nbsp;&nbsp;
-      <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/278922714/original/4b2afbe452a924ebe86166e7a535f81ce3811fd5/pcb-schematics-design-using-proteus-software.jpeg" width="80" height="80">
+      <img src="https://cdn1.iconfinder.com/data/icons/buno-programming-files/32/c_file_programming_format_document-128.png" width="80" height="80">&nbsp;&nbsp;
 
 ## My Programming & Hachathon Performance
 
