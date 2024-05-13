@@ -63,6 +63,7 @@
 
 - My Github Profile [here](https://github.com/f12-mou)
 - You can reach me via [mail](mailto:faria12mou@gmail.com)
+- My Youtube channel [here](https://www.youtube.com/@user-hw7ut9ct6u)
 
 Feel free to explore my repositories and reach out if you want to discuss anything you find interesting, whether it's related or unrelated to my work.
 
