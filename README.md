@@ -39,8 +39,11 @@
 | BUET Inter University Hackathon 2023 | 2023 | Selected for main round |  BUET HackForce |
 
   ## Featured Project
-  -  [PixelShare](https://www.pixelshare.site/login)
+  -  [PixelShare](https://www.pixelshare.site/login)<br>
   It was our Level-4, Term-I project under the course CSE 408: Software Development and Sessional. <br>The project incorporates the [CLIP](https://openai.com/index/clip/) model for advanced text-based image search and image clustering within a group.
+  -  [Pacman](https://github.com/f12-mou/Pacman)<br>
+My first-ever game project. As a beginner, I dove headfirst into the challenge, pouring my heart and soul into every line of code. It is not perfect and there are still some bugs to fix but I love the colors of the levels. I’m planning to revisit and polish it up after my final term exams. Stay tuned for the upgraded version!
+You can watch this on youtube [here](https://www.youtube.com/watch?v=Ph3G2gmhZis&t=5s)  
 
 
 ## 🏆 Achievements
