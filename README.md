@@ -22,7 +22,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">&nbsp;&nbsp;&nbsp;
      <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" width="80" height="80">&nbsp;&nbsp;
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT495SlfdbhfosQjmsInc89C97TtcwvKyqK33Wl6Xywxw&s" width="80" height="80">&nbsp;&nbsp;
-      <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/278922714/original/4b2afbe452a924ebe86166e7a535f81ce3811fd5/pcb-schematics-design-using-proteus-software.jpeg" width="100" height="80">
+      <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/278922714/original/4b2afbe452a924ebe86166e7a535f81ce3811fd5/pcb-schematics-design-using-proteus-software.jpeg" width="80" height="80">
 
 ## My Programming & Hachathon Performance
 
