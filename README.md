@@ -37,7 +37,7 @@
 | National Collegiate Programming Contest 2023 | 2024 | 100 |  BUET Team 7|
 | BUET Inter University Hackathon 2023 | 2023 | Selected for main round |  BUET HackForce |
 
-  ## Featured Project:
+  ## Featured Project
   -  [PixelShare](https://www.pixelshare.site/login)
   It was our Level-4, Term-I project under the course CSE 408: Software Development and Sessional. <br>The project incorporates the [CLIP](https://openai.com/index/clip/) model for advanced text-based image search and image clustering within a group.
 
