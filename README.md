@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 I'm currently a Level-4 Term-II student in Computer Science and Engineering(CSE) at BUET.
-- 💡  I'm passionate about programming and have a keen interest in developing software.
+- 💡  I'm passionate about programming and have a keen interest in Machine Learning Projects.
 - 📚 My thesis is focused on Bioinformatics and it is indeed interesting. 
 - 🌱 I love to learn new things.
 - <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a504c732-2487-47cd-9380-d08f32a02454/dbqd0wh-0deffa14-4a5f-4640-9fe7-9328a1289c51.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1MDRjNzMyLTI0ODctNDdjZC05MzgwLWQwOGYzMmEwMjQ1NFwvZGJxZDB3aC0wZGVmZmExNC00YTVmLTQ2NDAtOWZlNy05MzI4YTEyODljNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PqXHW-XCbKzeaP2WENm5VRpbWDwdQjPO-RA3eIkOjzk" width="40" height="40"> I am a Tom & Jerry Lover. 
