@@ -1,4 +1,4 @@
-### Hello Everyone! 👋 I am Moushe, though you will see my name listed as Faria Mou everywhere.
+### Hello Everyone! 👋 I am Moushe
 
 ## About Me
 - 🎓 I'm currently a Level-4 Term-I student in Computer Science and Engineering(CSE) at BUET.
