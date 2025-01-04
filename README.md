@@ -31,6 +31,7 @@
 |------------------|------|------|-----------|
 | 🌟 National Girls’ Programming Contest 2022   | 2023 | Champion  | BUET Pirates |
 | 🌟 NASA SPACE APPS CHALLENGE 2021   | 2022 | 2nd Runner Up, Dhaka Division  | Luminal Caliber |
+| 🌟 ICPC Asia Dhaka Regional Contest 2024 | 2024 | 24 | BUET Harmonica|
 | 🌟 ICPC Asia Dhaka Regional Contest 2023 | 2023 | Selected in Preliminary Contest | BUET Code Chronicles|
 | Ada Lovelace National Girls’ Programming Contest 2022  | 2022 | 14  | BUET error 404 |
 | BUET INTER UNIVERSITY PROGRAMMING CONTEST 2023 | 2023 | 15 | BUET Trumpet|
