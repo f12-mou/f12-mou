@@ -1,7 +1,7 @@
 ### Hello Everyone! 👋 I am Moushe
 
 ## About Me
-- 🎓 I'm currently a Level-4 Term-I student in Computer Science and Engineering(CSE) at BUET.
+- 🎓 I'm currently a Level-4 Term-II student in Computer Science and Engineering(CSE) at BUET.
 - 💡  I'm passionate about programming and have a keen interest in developing software.
 - 📚 My thesis is focused on Bioinformatics and it is indeed interesting. 
 - 🌱 I love to learn new things.
