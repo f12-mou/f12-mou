@@ -52,7 +52,7 @@ You can watch this on youtube [here](https://www.youtube.com/watch?v=Ph3G2gmhZis
 -  I was honored to be featured in Prothom Alo, a leading newspaper, for my performance in programming competitions.
     Read the full article here: [Performance of BUET_Pirates in NGPC 2022](https://www.prothomalo.com/lifestyle/zldk32um72)
 
--  I have been awarded a grant of BDT 100,000 for my thesis research project by the [Research and Innovation Centre for Science and Engineering (RISE)](https://rise.buet.ac.bd/#/). My thesis is in the field of Bioinformatics. I will reveal full details of my thesis after the defense.
+-  I have been awarded a grant of BDT 100,000 for my ML project by BUET. I will reveal the full details of my project after completion.
 -  In the Creativity Talent Hunt 2017, I became the Dhaka Divisional Champion in Maths and Computer Science. I received the prize directly from the hands of the then Education Minister, in the presence of the Honourable Prime Minister of Bangladesh.
 
 
