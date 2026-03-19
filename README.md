@@ -19,7 +19,6 @@
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="80" height="80">&nbsp;&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" height="80">&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">&nbsp;&nbsp;&nbsp;
-     <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" width="80" height="80">&nbsp;&nbsp;
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT495SlfdbhfosQjmsInc89C97TtcwvKyqK33Wl6Xywxw&s" width="80" height="80">&nbsp;&nbsp;
       <img src="https://cdn1.iconfinder.com/data/icons/buno-programming-files/32/c_file_programming_format_document-128.png" width="80" height="80">&nbsp;&nbsp;
       <img src="https://i.pinimg.com/564x/ee/94/42/ee9442392044b8cdf84a88cbaff0e10b.jpg" width="80" height="80">&nbsp;&nbsp;
