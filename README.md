@@ -17,7 +17,6 @@
   <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/158632074/original/4b0770b0ea6343fe7fa24999a80d9e7f9041c588/develop-your-website-or-web-application-with-svelte.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png" width="80" height="80">&nbsp;&nbsp;
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-512.png" width="80" height="80">&nbsp;&nbsp;
-   <img src="https://static-00.iconduck.com/assets.00/html-5-icon-726x1024-evem6gg5.png" width="80" height="80">&nbsp;&nbsp;
     <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" width="80" height="80">&nbsp;&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" width="80" height="80">&nbsp;&nbsp;&nbsp;
      <img src="https://static-00.iconduck.com/assets.00/arduino-icon-2048x1397-pmu0lemh.png" width="80" height="80">&nbsp;&nbsp;
