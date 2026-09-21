@@ -1,10 +1,12 @@
 ### Hello Everyone! 👋 I am Moushe
 
 ## About Me
-- 🎓 I have graduated from Department of CSE, BUET
-- 💡  I'm passionate about programming and have a keen interest in developing Projects.
-- 📚 My thesis is focused on Bioinformatics and it is indeed interesting. 
-- 🌱 I love to learn new things.
+- 🎓 Ph.D. Student in Computer Science at Virginia Tech; B.Sc. in Computer Science and Engineering from BUET.
+- My research interests lie at the intersection of **Bioinformatics, Computational Biology, Machine Learning, and AI**.
+- I have worked on **spatial transcriptomics**, and I am currently exploring **gene regulatory network inference and computational genomics**.
+- I enjoy building research-oriented software, experimenting with machine learning methods, and solving challenging computational problems.
+- Always learning, exploring new research ideas, and expanding my skills in AI, data science, and computational biology.
+
 - <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a504c732-2487-47cd-9380-d08f32a02454/dbqd0wh-0deffa14-4a5f-4640-9fe7-9328a1289c51.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E1MDRjNzMyLTI0ODctNDdjZC05MzgwLWQwOGYzMmEwMjQ1NFwvZGJxZDB3aC0wZGVmZmExNC00YTVmLTQ2NDAtOWZlNy05MzI4YTEyODljNTEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PqXHW-XCbKzeaP2WENm5VRpbWDwdQjPO-RA3eIkOjzk" width="40" height="40"> I am a Tom & Jerry Lover. 
 
 ##  Tech Toolbox
