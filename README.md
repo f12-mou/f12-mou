@@ -66,7 +66,7 @@ You can watch this on youtube [here](https://www.youtube.com/watch?v=Ph3G2gmhZis
 
 - [Github Profile](https://github.com/f12-mou)
 - You can reach me via [mail](mailto:faria12mou@gmail.com)
-- Vist my [Youtube channel](https://www.youtube.com/@user-hw7ut9ct6u)
+- Vist my [Youtube channel](https://www.youtube.com/@fariamou-d3e)
 - Visit my [Portfolio](https://f12-mou.github.io/faria-portfolio)
 
 Feel free to explore my repositories and reach out if you want to discuss anything you find interesting, whether it's related or unrelated to my work.
